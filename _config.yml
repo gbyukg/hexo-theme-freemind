@@ -1,7 +1,7 @@
 slogan: "点点滴滴"
 
-theme: cerulean
-inverse: inverse
+theme: flatly
+#inverse: inverse
 
 menu:
   - title: Archives
