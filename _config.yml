@@ -1,4 +1,4 @@
-slogan: "Yet another bootstrap theme."
+slogan: "点点滴滴"
 
 theme: cerulean
 inverse: inverse
@@ -22,18 +22,14 @@ menu:
     icon: "fa fa-user"
 
 links:
-  - title: Freemind
-    url: https://github.com/wzpan/freemind/
-    intro: "Freemind's Github repository."
-    icon: "fa fa-github"
   - title: "My Github"
-    url: http://www.github.com/wzpan
+    url: http://www.github.com/gbyukg
     intro: "My Github account."
     icon: "fa fa-github"
-  - title: "My LinkedIn"
-    url: http://www.linkedin.com/in/hahack
-    intro: "My Linkin account."
-    icon: "fa fa-linkedin"
+  - title: "博客园"
+    url: http://www.cnblogs.com/gbyukg
+    intro: "博客园."
+    #icon: "fa fa-linkedin"
 
 widgets:
 - search
@@ -45,7 +41,7 @@ widgets:
 rss: 
 fancybox: true
 favicon: favicon.png
-duoshuo_shortname:
+duoshuo_shortname: gbyukg
 
 # Analytics
 google_analytics:
